@@ -1,7 +1,5 @@
 # Gif Search 
 
-```
-npm install
-```
+```npm install```
 
 ```npm start```
